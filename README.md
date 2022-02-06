@@ -26,8 +26,18 @@
 ![information](https://github.com/lostislandrp/samp-lirp-plugin/blob/main/Images/sample4.png)
 ![information](https://github.com/lostislandrp/samp-lirp-plugin/blob/main/Images/sample3.png)
 
+## How to Install?
+ - First copy the `samp-lirp-plugin.asi` file and go to your **GTA Folder** where your **SAMP Client** runs
+ - Next is paste it there and run your **GTA Samp** now.
 
-
+## I encountered a problem, how to fix it?
+  - Here's the possible problem that you're experience:
+    - You do not have ASI Loader
+      - How to install ASI Loader?
+        - Just search on YouTube `how to install ASI Loader`.
+    - Outdated drivers
+      - How to update drivers?
+        - Again, just search on YouTube `How to update drivers manually and automatically`.
 
 ## Big thanks to:
 **Hual**
