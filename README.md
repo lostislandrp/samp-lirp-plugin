@@ -4,7 +4,7 @@
   <img src="https://github.com/lostislandrp/samp-lirp-plugin/blob/main/Images/logo.png" height="auto" width="300px">
 </p>
 <p align="center">
-<a href="https://www.google.com/">[CLICK ME]</a>
+<a href="https://github.com/lostislandrp/samp-lirp-plugin/releases/tag/1.0.0">[CLICK HERE TO REDIRECT ON RELEASE PAGE]</a>
 </p>
 
 <br />
