@@ -1,1 +1,1 @@
-# samp-lirp-plugin
+## <p align="center">[OFFICIAL] Lost Island Roleplay Discord Rich Presence Plugin</p>
