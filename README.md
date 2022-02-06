@@ -17,3 +17,6 @@
 <img src="http://www.game-state.com/139.99.18.243:7777/560x95_FFFFFF_FF9900_000000_000000.png" alt="www.Game-State.com" style="border-style: none;">
 
 <br />
+
+## preview:
+![Screenshot](https://github.com/lostislandrp/samp-lirp-plugin/blob/main/Images/sample1.png)
