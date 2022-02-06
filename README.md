@@ -31,4 +31,4 @@
 
 ## Big thanks to:
 **Hual**
-  - Creator of (Discord samp plugin)[https://github.com/Hual/samp-discord-plugin]
+  - Creator of [Discord samp plugin](https://github.com/Hual/samp-discord-plugin)
