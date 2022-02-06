@@ -18,11 +18,10 @@
 
 <br />
 
-### preview:
-**Preview 1: in LIRP**
+## Preview 1 - In LIRP:
 ![information](https://github.com/lostislandrp/samp-lirp-plugin/blob/main/Images/sample2.png)
 ![information](https://github.com/lostislandrp/samp-lirp-plugin/blob/main/Images/sample1.png)
 
-**Preview 2: Unknown Server/Not in LIRP**
+## Preview 2 - Unknown Server/Not in LIRP:
 ![information](https://github.com/lostislandrp/samp-lirp-plugin/blob/main/Images/sample4.png)
 ![information](https://github.com/lostislandrp/samp-lirp-plugin/blob/main/Images/sample3.png)
