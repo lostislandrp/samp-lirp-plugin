@@ -25,3 +25,10 @@
 ## Preview 2 - Unknown Server/Not in LIRP:
 ![information](https://github.com/lostislandrp/samp-lirp-plugin/blob/main/Images/sample4.png)
 ![information](https://github.com/lostislandrp/samp-lirp-plugin/blob/main/Images/sample3.png)
+
+
+
+
+## Big thanks to:
+**Hual**
+  - Creator of (Discord samp plugin)[https://github.com/Hual/samp-discord-plugin]
